@@ -1,0 +1,31 @@
+Device Preview for ClawMuse
+
+Android gRPC transport and coordinate transforms are adapted from Cindy official plugins,
+cindy-simulator/node/android/grpc.cjs and node/geometry.cjs,
+commit 4223c43e440d2c695b6ad649b9a4d97b22a7cf4c.
+Source: https://github.com/makecindy/cindy-official-plugins
+Modifications: typed dependency-free protocol subset, bounded buffers, cancellation,
+normalized coordinates and the ClawMuse RPC transport.
+
+Upstream NOTICE:
+Cindy Official Plugins
+Copyright 2026 心动网络股份有限公司 (X.D. Network Inc.)
+
+This product includes software developed by
+心动网络股份有限公司 (X.D. Network Inc.).
+
+Third-party components distributed with this product retain their own
+copyright and license terms, and are not covered by this file.
+
+Where a plugin bundles third-party code, its attribution notices ship in that
+plugin's own THIRD-PARTY-LICENSES.txt, alongside this file. The taptap-maker
+plugin additionally carries the license of the vendored @taptap/maker package
+at vendor/taptap-maker/LICENSE.
+
+The complete set of attribution notices for every plugin is at
+https://github.com/makecindy/cindy-official-plugins
+
+Baguette v0.2.12 (Copyright 2026 tddworks), Apache-2.0.
+Source: https://github.com/tddworks/baguette/tree/v0.2.12
+Runtime and dependency licenses: THIRD-PARTY-NOTICES.txt.
+Lody is a behavioral reference only; no Lody code or runtime is included.

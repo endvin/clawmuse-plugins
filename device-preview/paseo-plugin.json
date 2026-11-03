@@ -1,0 +1,11 @@
+{
+  "id": "device-preview",
+  "name": "设备预览",
+  "description": "ClawMuse 官方插件。在右侧面板实时查看并操作主机上的 iOS 和 Android 模拟器；手机远程观看，停止预览保留设备运行。",
+  "requirements": {
+    "paseo": ">=0.13.0"
+  },
+  "media": [
+    "assets/panel.png"
+  ]
+}
